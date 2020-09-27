@@ -1,0 +1,69 @@
+header {
+    border-bottom: 2px solid #c81523;
+}
+
+.registerarea {
+    height: 522px;
+    margin-top: 20px;
+    border: 1px solid #cccccc;
+}
+
+.registerarea h3 {
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+    line-height: 42px;
+    padding: 0 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.registerarea h3 div {
+    font-size: 16px;
+    float: right;
+}
+
+.reg-form {
+    width: 600px;
+    margin: 50px auto;
+}
+
+.reg-form form ul li {
+    margin-bottom: 20px;
+}
+
+.reg-form form ul li input {
+    width: 242px;
+    height: 37px;
+    border: 1px solid #ccc;
+}
+
+.reg-form form ul li label {
+    display: inline-block;
+    width: 88px;
+    font: 1em sans-serif;
+    text-align: right;
+}
+
+#form-cb {
+    width: 14px;
+    height: 14px;
+}
+
+.safe {
+    display: none;
+    padding-left: 170px;
+}
+
+.agree {
+    padding-left: 95px;
+}
+
+#btn {
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    font-size: 14px;
+    color: #fff;
+    margin: 30px 0 0 70px;
+}

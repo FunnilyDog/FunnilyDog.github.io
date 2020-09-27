@@ -1,0 +1,11 @@
+.body-bgm img{
+    width: 1220px;
+}
+
+.clearfix  li {
+    width: 290px;
+    height: 460px;
+    float: left;
+    margin-left:13px ;
+    border: 1px solid transparent;
+}

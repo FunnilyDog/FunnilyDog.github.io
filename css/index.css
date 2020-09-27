@@ -1,0 +1,166 @@
+.middle {
+    width: 1220px;
+    height: 500px;
+}
+
+.focus {
+    width: 721px;
+    height: 455px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.news .title{
+    float: left;  
+    width: 255px;
+    height: 40px; 
+    margin-top: 20px; 
+    margin-left: 20px;
+    border: 1px solid rgb(235, 229, 229);
+}
+
+.news h5 {
+    float: left;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+
+.news .title a {
+    float: right;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+.news-bd {
+    float: left;
+    width: 255px;
+    height: 120px; 
+    border: 1px solid rgb(235, 229, 229);
+    overflow: hidden;
+    margin-left: 20px;
+}
+
+.news-bd ul li {
+    width: 255px;
+    line-height: 24px;
+    margin-left: 20px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+}
+
+.lifeservice {
+    float: left;
+    width: 255px;
+    margin-left: 20px;
+    border-left: 1px solid #e4e4e4;
+}
+
+.lifeservice ul li {
+    float: left;
+    width: 25%;
+    height: 33.3%;
+    border-right: 1px solid #e4e4e4;
+    border-bottom: 1px solid #e4e4e4;
+    text-align: center;
+}
+.lifeservice ul li i {
+    display: inline-block;
+    width: 24px;
+    height: 28px;
+    background-color: pink;
+    margin-top: 12px;
+    background: url(../images/icons.png) no-repeat -19px -15px;
+}
+
+.bargain {
+    float: left;
+    width: 255px;
+    margin-left: 20px;
+    margin-top: 28px;
+}
+
+/* 今日推荐 */
+.recom {
+    height: 163px;
+    background-color: #ebebeb;
+}
+
+.recom-img {
+    float: left;
+    height: 163px;
+    width: 205px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.recom-list ul li {
+    float: left;
+}
+.electric {
+    height: 360px;
+    margin-bottom: 50px;
+}
+.electric-hd {
+    height: 30px;
+    margin-top: 20px;   
+    border-bottom: 2px  solid #c81623;
+
+}
+
+.electric-hd h3 {
+    float: left;
+    font-size: 18px;
+    color: #c81623;
+}
+
+.electric-hd ul {
+    float: right;
+}
+
+.electric-hd ul li {
+    float: left;
+}
+.electric-hd ul li a {
+    font-size: 12px;
+    margin: 2px 15px;
+}
+
+.electric-body-left {
+    float: left;
+    width: 18%;
+    height: 360px;
+    text-align: center;
+    background-color:#f9f9f9;
+}
+
+.electric-body-left>ul>li {
+    float: left;
+    width:42%;
+    margin:8%  4% 0 4%;
+    border-bottom: 1px solid #cccccc;
+}
+
+.electric-body-left>ul>li a {
+    padding-bottom: 10px;
+}
+
+.electric-28 {
+    float: left;
+    height: 360px;
+    width: 28%;
+    overflow: hidden;
+}
+
+.electric-18 {
+    float: left;
+    height: 360px;
+    width: 18%;  
+    overflow: hidden;
+
+}
+
+
+
+
